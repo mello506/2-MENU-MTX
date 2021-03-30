@@ -107,7 +107,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR red]PEDIDOS DO USUÁRIO[/COLOR][/B]</name>
+<name>[B][COLOR white]PEDIDOS DO USUÁRIO[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/5-PEDIDOSDOUSUARIO</externallink>
 <thumbnail>https://i.ibb.co/yNxkmtR/Pedidos.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -119,7 +119,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR red]NOVIDADES DA SEMANA[/COLOR][/B]</name>
+<name>[B][COLOR white]NOVIDADES DA SEMANA[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/6-NOVIDADESDASEMANA</externallink>
 <thumbnail>https://i.ibb.co/rp84Sdp/novidades.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>

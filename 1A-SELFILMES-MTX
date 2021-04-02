@@ -25,7 +25,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B]FILMES NO SERVER 1[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES NO SERVER 1[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-SERVER1-MTX/main/1A-SELFILMES-SERVER1</externallink>
 <thumbnail>https://i.ibb.co/BfRrLxh/Server-1-2.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -37,7 +37,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B]FILMES NO SERVER 2 [/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES NO SERVER 2 [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-SERVER2-MTX/main/1A-SELFILMES-SERVER2</externallink>
 <thumbnail>https://i.ibb.co/6mcCQf1/Server-2-2.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -47,9 +47,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR red][B]FILMES NO REDE CANAIS [/B][/COLOR]</name>
+
+<name>[COLOR white][B]FILMES NO REDE CANAIS [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-REDCAN-MTX/main/1A-SELFILMES-REDCAN</externallink>
 <thumbnail>https://i.ibb.co/HV06TbP/Redecanais-2.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -61,7 +60,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B]FILMES LEGENDADOS[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES LEGENDADOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-MTX/main/1A1-SOFILMLEGENDADO-MTX</externallink>
 <thumbnail>https://i.ibb.co/vBCbRBV/Legendado.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
